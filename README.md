@@ -29,7 +29,7 @@ pip install pomodoro_timer
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/pomodoro_timer.git
+git clone https://github.com/EhsanAhmadzadeh/pomodoro_timer.git
 ```
 
 2. Navigate to the project directory:
